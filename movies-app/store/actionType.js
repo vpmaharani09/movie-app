@@ -1,0 +1,10 @@
+export const FETCH_ALL = "all/fetchAll";
+export const SET_MOVIES = "movies/setMovies";
+export const SET_MOVIE = "movies/setMovie";
+export const SET_LOADING_MOVIES = "movies/setLoadingMovies";
+export const SET_ISERROR_MOVIES = "movies/setIsErrorMovies";
+export const SET_ERROR_MOVIES = "movies/setErrorMovies";
+export const SET_SERIES = "series/setSeries";
+export const SET_LOADING_SERIES = "series/setLoadingSeries";
+export const SET_ALL = "all/setAll";
+export const SET_LOADING = "all/setLoading";
